@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Muy Fav Westworld Narratives
+title: My Fav Westworld Narratives
 ---
 ## Some Westoworld Naraatives I'd love you to read about
 
