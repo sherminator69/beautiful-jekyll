@@ -2,14 +2,11 @@
 layout: page
 title: About me?
 subtitle: Why you'd want to go on a date with me
+published: true
 ---
+A veteran tech nerd who still is confused with codes. Willing to write code for a living, a hobbyist personality, like philosophy,poems alike. Often caffeinated.
+Currently pursuing Information Technology Degree at [Jaypee Institute Of Information Technology](jiit.ac.in)
 
-My name is Ankesh Bharti. I have the following qualities:
-
-- I rock a great mustache
-- I'm BWWAWAWAH.
-
-What else do you need?
 
 ### my history
 
